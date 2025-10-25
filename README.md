@@ -1,8 +1,7 @@
-### Olá, eu sou o Maki.
+### Hi, I'm Maki.
 
-- 🔭 Busco oportunidade profissional para System Programming.
-- 📚 Formado em Análise e Desenvolvimento de Sistemas FIAP.
-- 🧑🏿‍🦱 Ele/dele.
+- 📚 Graduated in Systems Analysis and Development from FIAP.
+- 🧑🏿‍🦱 He/Him.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoviks&show_icons=true&theme=midnight-purple)
 ##
