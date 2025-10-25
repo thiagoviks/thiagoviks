@@ -1,7 +1,7 @@
-### Olá, eu sou o Thiago Silva.
+### Olá, eu sou o Maki.
 
-- 🔭 Busco oportunidade profissional para FullStack.
-- 📚 Cursando último ano de Análise e Desenvolvimento de Sistemas FIAP.
+- 🔭 Busco oportunidade profissional para System Programming.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas FIAP.
 - 🧑🏿‍🦱 Ele/dele.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoviks&show_icons=true&theme=midnight-purple)
